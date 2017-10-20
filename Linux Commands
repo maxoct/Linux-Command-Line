@@ -19,7 +19,7 @@
 
    |------------------------------------------------------------|
    | if you want to do more with any of this command, then type |
-	 |------------------------------------------------------------|
+   |------------------------------------------------------------|
     commandName --help
 		example: cal --help 
 		you can see many options available to do with this commands here.
