@@ -1,0 +1,25 @@
+1. mkdir -- make directory, it creates new directory in linux
+      mkdir new folder 
+2. pwd -- print working directory, it prints current location
+		  pwd 
+3. rmdir  -- remove directory, it deletes directory (new folder)
+		  rmdir new folder --> this is suitable for empty folder only!
+			
+  	  rm -rf  -- to remove directory which contains data (r= recursive f= forcefully)
+		  rm -rf -new folder (new folder = yourFolderName)
+		 
+4. touch -- it basically creates blank file in linux
+		  touch sample file (it creates a blank file named "sample file" in your current location)
+5. ls -- it shows the all files and folders in current location in linux
+		  ls -a  (it shows all files and folders including hidden files and folders in current location)
+		  ls -l  (it shows File and Folders list with their composition time)
+	
+6. date -- it shows current day, date and time in linux
+7. cal -- it shows the calender 
+
+   |------------------------------------------------------------|
+   | if you want to do more with any of this command, then type |
+	 |------------------------------------------------------------|
+    commandName --help
+		example: cal --help 
+		you can see many options available to do with this commands here.
